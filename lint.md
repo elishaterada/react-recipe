@@ -18,5 +18,15 @@ Then, create `.eslintrc` file with following content:
 }
 ```
 
+Finally, add following script to your `package.json`
+
+```
+"scripts": {
+  ...
+  "lint": "./node_modules/.bin/eslint src/**/*.js",
+  ...
+}
+```
+
 
 
