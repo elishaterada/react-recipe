@@ -1,3 +1,6 @@
-# My Awesome Book
+# React Recipe
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+This is my personal recipe for creating react apps.
+
