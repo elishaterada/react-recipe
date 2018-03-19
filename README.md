@@ -1,6 +1,4 @@
 # React Recipe
 
-
-
-This is my personal recipe for creating react apps.
+This is my personal recipe for creating or modifying existing react apps.
 
