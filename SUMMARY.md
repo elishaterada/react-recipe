@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Lint](lint.md)
-* File Structure
+* [File Structure](file-structure.md)
 
